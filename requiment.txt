@@ -1,0 +1,9 @@
+keras
+tensorflow-gpu
+pyvi
+numpy
+pandas
+tensorflow
+keras
+fasttext
+keras_preprocessing

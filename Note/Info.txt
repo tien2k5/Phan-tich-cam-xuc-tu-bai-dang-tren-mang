@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+Dùng công nghệ  CNN  :  để phân biệt giữa  các ngôn từ. 
+
+
+Các file :  
+- cc.vi.300.vec == >  Chứa các biến số  Tiếng việt. mỗi từ được biến thành một chuỗi 300 con số. Những con số này được gọi là vector nhúng từ (word embeddings). Nói cách khác, lớp nhúng giúp mô hình CNN của bạn "hiểu" được ý nghĩa của văn bản bằng cách sử dụng các biểu diễn toán học của các từ được lưu trữ trong file cc.vi.300.vec.
+
+- Nguồn  :  
+=======
+Dùng công nghệ  CNN  :  để phân biệt giữa  các ngôn từ. 
+ANN  :  mang no ron 
+
+Các file :  
+- cc.vi.300.vec == >  Chứa các biến số  Tiếng việt. mỗi từ được biến thành một chuỗi 300 con số. Những con số này được gọi là vector nhúng từ (word embeddings). Nói cách khác, lớp nhúng giúp mô hình CNN của bạn "hiểu" được ý nghĩa của văn bản bằng cách sử dụng các biểu diễn toán học của các từ được lưu trữ trong file cc.vi.300.vec.
+
+- Nguồn  :  
+>>>>>>> 3bb3b15c123c4d95d2756a2045da71213e7131e0
+    tải  cc.vi.300.vec | https://fasttext.cc/docs/en/english-vectors.html
+
+
+    
